@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drift Clock</string>
+    <string name="media_access_explanation">Allow notification access for Drift Clock to display and control what’s playing. The app uses active media sessions and does not read notification contents.</string>
+    <string name="open_notification_access">Open notification access</string>
+    <string name="manage_notification_access">Manage notification access</string>
+    <string name="open_screensaver_settings">Open screen saver settings</string>
+    <string name="now_playing">Now playing</string>
+    <string name="previous_track">Previous</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next_track">Next</string>
+</resources>
